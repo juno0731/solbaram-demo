@@ -7,6 +7,10 @@ ELTREE의 서면 허락 없이 전체 또는 일부를 복제, 수정, 배포, �
 img/ 폴더의 사진은 제공받은 자료로, 각 권리자에게 권리가 있으며
 이 문서로 이용을 허락하지 않습니다.
 
+다음 구성요소는 각자의 라이선스를 따릅니다.
+- Bootstrap 5.3.8: MIT License (파일 머리말 참고)
+- Dongle, Gamja Flower, Gowun Dodum 글꼴: SIL Open Font License 1.1 (vendor/fonts/OFL-*.txt)
+
 이용 문의: ELTREE
 
 ---
@@ -17,4 +21,5 @@ distributed, sold or used to build other websites without prior written
 permission from ELTREE.
 
 Photographs in the img/ folder are third-party material and are not licensed
-under this notice.
+under this notice. Bootstrap (MIT) and the Dongle, Gamja Flower and Gowun Dodum
+fonts (SIL OFL 1.1) remain under their own licenses.
